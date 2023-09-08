@@ -4,7 +4,7 @@
         "error": "false",
         "Success": true,
         "data": {
-            "isKai": true,
+            "isKai": false,
             "version": "125"
         }
     }
