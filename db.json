@@ -1,14 +1,11 @@
 {
-    "save": {
+    "SlotsSix": {
         "code": "200",
         "error": "false",
         "Success": true,
         "data": {
-        "where": true,
-        "version": "125",
-        "versionName": "1.2.5",
-        "time": "2023-05-09",
-        "Equipment": "Mobile phone"
+            "isKai": true,
+            "version": "125"
         }
     }
 }
